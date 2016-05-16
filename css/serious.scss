@@ -1,0 +1,24 @@
+---
+---
+@import "bourbon/bourbon";
+@import "neat/neat";
+@import "base/base";
+
+// Breakpoints
+$sm: 34em;
+$md: 48em;
+$lg: 62em;
+$xl: 75em;
+
+.container {
+  @include outer-container;
+}
+
+#construction-title {
+  font-family: "kepler-std-display",serif;
+  font-size: 7rem;
+  @include media($md) {
+    font-size: 12rem;
+  };
+  text-align: right;
+}
