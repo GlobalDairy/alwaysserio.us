@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/overwatchcorp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://alwaysserio.us
+  * I am overwatchcorp (https://keybase.io/overwatchcorp) on keybase.
+  * I have a public key with fingerprint 76F8 3A89 091B 5A76 6167  3E4C 7D77 7825 F84D EEB9
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101ed8b33e10dbdb341a3e6d7fd3e75a6cd136e09a50874b4fe64acf530a7dc3cd10a",
+            "fingerprint": "76f83a89091b5a7661673e4c7d777825f84deeb9",
+            "host": "keybase.io",
+            "key_id": "7d777825f84deeb9",
+            "kid": "0101ed8b33e10dbdb341a3e6d7fd3e75a6cd136e09a50874b4fe64acf530a7dc3cd10a",
+            "uid": "5838341c7411725d3c11e59a507f5019",
+            "username": "overwatchcorp"
+        },
+        "service": {
+            "hostname": "alwaysserio.us",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1466997737,
+    "expire_in": 157680000,
+    "prev": "b3b4cdd2a27983b3aeead6760d79bca84ea17a8b52d0a359d457a2b002ce6d59",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIsAnicrZJbSBRRGMdXy6KliwkhXXxwgqDyMjNnZs7MEiGpUVBBCRqVLOfMObNO
+rjPrzqyb2gYRviRRCbGFFWVFEj2UoWDQlUwwKkOKIMqCoNQNk9BKSzoj9tZj5+Vw
+zvf//74L36NFc3z+tJuDg1vqlt8eT3vy4HzMVxFpHWrksE3quUAjV01nLhom1HGD
+1SbhAhwv8AIlKgaACjzBBANJQIAqBBoEUCgjRScCUCivIZlXoYQlgyoS0g0Z8AgS
+HbAwj7g8zjCtEI1GoqblMixUDBUgVeM1AcsIKoqgQEAlHRIIoSrKhioRSrHGjFW2
+4zlYcRg5tMC02R97BGfK+4f+P9cdm8HJKlAZQYeSIEBRJkAXBCp7XmjIvODljTk0
+aqEaytR2HY3GkatX6XY0wiXyOBaqM3XqTddrZ1aGwnFU77CYaRfEHIaIRG3X1u0w
+i1W5biTgWd36iKeNUxycpQSxaRE2TWZgeRzTtriAwJS6a3pYQVIUTYMQwDyOHoiY
+URo0PYUMFZVnx0tD6xgSAyzphIhIhJoKMECUIqJAhSdQwzpSJYoEiFQsi4RHQNaI
+JEMkYp4XdTZH2evZobWWzdiA1YlCjOmYIQu5sSjlEg/v75vrS/P75mWke2vm8y/I
+/Lt8oeT8yTlaZWezvPNjf06XHzwd832rTGvb8EAqbZtK3Bo+U8Ntupv7ds+FpiI+
+1f1z+u6zUlLYfbw1d2nv+I2N4Q9d/Ul/e9eVUV7QO1IjjWu+t+S3lsS3ZX5a9a5p
+5GJL6cae5hOXr21O1Za/RacCl5pzFoXSQz9y8l/uUuNbx/YPDVQdgbvLvo7eK9tx
+qWRy3cLh9nDxaMf2W6ny9dn3jN8rOOVq4uzKvcnVRxviFT3p47ezpjdnDxRki9LV
+zpwl5UWHvogXpqxDvY/7lmRMvK799Vpb2344K9U2egwerDw38S5xp/u8nD+R/DyW
+LD6Z2R54VfKic/7p57/fXK9Y19eweNn7vsI/UZhM8w==
+=sKJz
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/overwatchcorp
+
+==================================================================
